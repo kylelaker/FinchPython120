@@ -2,7 +2,7 @@
 
 This is a mirror of sorts of the
 [Finch 1 Python code](https://www.birdbraintechnologies.com/finch1/python/install/) which per
-the README.txt distributed with the ZIP file is licensed under the MIT license. See
+the LICENSE.txt distributed with the ZIP file is licensed under the MIT license. See
 [LICENSE.txt](LICENSE.txt).
 
 In the past, Bird Brain Technologies has released new versions of the code under the same file
