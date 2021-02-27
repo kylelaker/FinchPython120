@@ -213,7 +213,7 @@ class ThreadedFinchConnection(FinchConnection):
                 break
             if not self.c_finch_handle:
                 break
-            if not self.main_thread.isAlive():
+            if not self.main_thread.is_alive():
                 break
             try:
                 self.lock.acquire()
